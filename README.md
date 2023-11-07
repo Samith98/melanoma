@@ -13,6 +13,7 @@
 - A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 - The dataset that is being used is the **Skin cancer ISIC The International Skin Imaging Collaboration**. It consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC).
 - The dataset contains the following class distribution.<br>
+<img href='https://drive.google.com/file/d/1WrgQh4VAQwUZiYFSji9wC1EwDAG2Y-Oq/view?usp=drive_link' alt='class count'>
 ![Class Counts](class_count.png)
 <br>
 ![Class Vsualization](class_viz.PNG)
