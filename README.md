@@ -14,7 +14,7 @@
 - The dataset that is being used is the **Skin cancer ISIC The International Skin Imaging Collaboration**. It consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC).
 - The dataset contains the following class distribution.<br>
 
-![Class Counts](./class_count.png)
+![Class Counts](./Class_count.png)
 <br>
 ![Class Vsualization](./class_viz.PNG)
 - Sample Image of the dataset.<br>
