@@ -40,6 +40,8 @@ Give credit here.
 - References if any...
 - This project was based on [this tutorial](https://www.example.com).
 
+## References
+Image Augmentation With Kera: https://machinelearningmastery.com/image-augmentation-with-keras-preprocessing-layers-and-tf-image/
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
